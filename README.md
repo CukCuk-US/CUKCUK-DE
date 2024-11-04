@@ -30,7 +30,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | R116 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R116/Sales_R116_0_0_112.apk) |
+| **CukCuk Mobile Sales** | R116 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R116/Sale_R116_0_0_112.apk) |
 | **CukCuk Mobile Manager** | R116 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R116/Manager_R116_0_0_0.apk) |
 | **CukCuk Mobile KDS** | R116 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R116/KDS_R116_0_0_0.apk) |
 | **CukCuk Mobile DIB** | R116 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R116/DIB_R116_0_0_0.apk) |

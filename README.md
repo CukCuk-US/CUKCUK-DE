@@ -9,6 +9,22 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
+### Version R120
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R120 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R120/Sale_R120_0_0_105.apk) |
+| **CukCuk Mobile KDS** | R120 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R120/KDS_R120_0_0_105.apk) |
+| **CukCuk Mobile DIB** | R120 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R120/DIB_R120_0_0_105.apk) |
+
+### Version R118
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R119 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R119/Sale_R119_0_0_100.apk) |
+| **CukCuk Mobile KDS** | R119 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R119/KDS_R119_0_0_100.apk) |
+| **CukCuk Mobile DIB** | R119 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R119/DIB_R119_0_0_100.apk) |
+
 ### Version R118
 
 | Application | Version | Download |

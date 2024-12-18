@@ -2,10 +2,6 @@
 
 Thank you for visiting! Below are all the necessary installation files for CukCuk Mobile DE. We have organized them by version and application to help you find what you need quickly and easily.
 
-## 📚 **How to Download Files**
-To download a file, simply click the corresponding link. If you encounter any issues, please contact us.
-
-
 CH Play:
 [CukCuk Mobile Manager](https://play.google.com/store/apps/details?id=vn.com.misa.cukcukmanager.com)
 
@@ -15,6 +11,8 @@ Appstore:
 Testflight:
 [CukCuk Mobile Manager](https://testflight.apple.com/join/UOb0NEwX)
 
+## 📚 **How to Download Files**
+To download a file, simply click the corresponding link. If you encounter any issues, please contact us.
 ---
 
 ## 🗂️ **Installation Files**

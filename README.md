@@ -17,6 +17,15 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
+### Version R121
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R121 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R121/Sale_R121_0_0_106.apk) |
+| **CukCuk Mobile Manager** | R121 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R121/Manager_R121_0_0_0.apk) |
+| **CukCuk Mobile KDS** | R121 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R121/KDS_R121_0_0_106.apk) |
+| **CukCuk Mobile DIB** | R121 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R121/DIB_R121_0_0_106.apk) |
+
 ### Version R120
 
 | Application | Version | Download |

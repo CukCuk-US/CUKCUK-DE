@@ -17,6 +17,14 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
+### Version R124
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R124 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R124/Sale_R124_0_0_1.apk) |
+| **CukCuk Mobile KDS** | R124 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R124/KDS_R124_0_0_0.apk) |
+| **CukCuk Mobile DIB** | R124 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R124/DIB_R124_0_0_0.apk) |
+
 ### Version R123
 
 | Application | Version | Download |

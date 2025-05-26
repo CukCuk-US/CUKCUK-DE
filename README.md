@@ -17,7 +17,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 ## 🗂️ **Installation Files**
 
-### Version R125
+### Lastest version
 
 | Application | Version | Download |
 |---|---|---|
@@ -25,6 +25,17 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Mobile KDS** | R125 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R125/KDS_R125_0_0_0.apk) |
 | **CukCuk Mobile DIB** | R125 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R125/DIB_R125_0_0_0.apk) |
 
+<details>
+<summary>📦 Click to view Older Versions</summary>
+
+### Version R125
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R125 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R125/Sale_R125_0_0_0.apk) |
+| **CukCuk Mobile KDS** | R125 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R125/KDS_R125_0_0_0.apk) |
+| **CukCuk Mobile DIB** | R125 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R125/DIB_R125_0_0_0.apk) |
+  
 ### Version R124
 
 | Application | Version | Download |
@@ -100,6 +111,8 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Mobile Manager** | R116 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R116/Manager_R116_0_0_0.apk) |
 | **CukCuk Mobile KDS** | R116 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R116/KDS_R116_0_0_0.apk) |
 | **CukCuk Mobile DIB** | R116 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R116/DIB_R116_0_0_0.apk) |
+
+</details>
 
 
 ## 📧 **Contact Support**

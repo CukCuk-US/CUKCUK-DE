@@ -1,3 +1,11 @@
+### Version R126
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R126 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R126/Sale_R126_0_0_0.apk) |
+| **CukCuk Mobile KDS** | R126 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R126/KDS_R126_0_0_0.apk) |
+| **CukCuk Mobile DIB** | R126 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R126/DIB_R126_0_0_0.apk) |
+
 ### Version R125
 
 | Application | Version | Download |

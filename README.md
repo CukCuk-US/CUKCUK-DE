@@ -25,9 +25,12 @@ To download a file, simply click the corresponding link. If you encounter any is
 | **CukCuk Mobile KDS** | R126 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R126/KDS_R126_0_0_0.apk) |
 | **CukCuk Mobile DIB** | R126 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R126/DIB_R126_0_0_0.apk) |
 
-### 📥 Old Versions
+### Old Versions
 
 Vui lòng xem tại [`installation-files.md`](installation-files.md) để tải các phiên bản trở về trước.
+
+### Remote control 
+Rustdesk 1.4.0 [Download](https://github.com/rustdesk/rustdesk/releases/download/1.4.0/rustdesk-1.4.0-universal-signed.apk)
 
 
 ## 📧 **Contact Support**

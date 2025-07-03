@@ -21,9 +21,9 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | R126 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R126/Sale_R126_0_0_0.apk) |
-| **CukCuk Mobile KDS** | R126 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R126/KDS_R126_0_0_0.apk) |
-| **CukCuk Mobile DIB** | R126 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R126/DIB_R126_0_0_0.apk) |
+| **CukCuk Mobile Sales** | R127 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R127/Sale_R127_0_0_0.apk) |
+| **CukCuk Mobile KDS** | R127 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R127/KDS_R127_0_0_0.apk) |
+| **CukCuk Mobile DIB** | R127 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R127/DIB_R127_0_0_0.apk) |
 
 ### Old Versions
 

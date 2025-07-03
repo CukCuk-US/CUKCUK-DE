@@ -2,7 +2,7 @@
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | R127 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R127/Sales_R127_0_0_0.apk) |
+| **CukCuk Mobile Sales** | R127 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R127/Sale_R127_0_0_0.apk) |
 | **CukCuk Mobile KDS** | R127 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R127/KDS_R127_0_0_0.apk) |
 | **CukCuk Mobile DIB** | R127 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R127/DIB_R127_0_0_0.apk) |
 

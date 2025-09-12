@@ -2,6 +2,14 @@
 
 | Application | Version | Download |
 |---|---|---|
+| **CukCuk Mobile Sales** | R129 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R129/Sale_DE_R129_0_0_0.apk) |
+| **CukCuk Mobile KDS** | R129 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R129/KDS_DE_R129_0_0_0.apk) |
+| **CukCuk Mobile DIB** | R129 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R129/DIB_DE_R129_0_0_0.apk) |
+
+### Version R128
+
+| Application | Version | Download |
+|---|---|---|
 | **CukCuk Mobile Sales** | R128 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R128/Sale_R128_0_0_0.apk) |
 | **CukCuk Mobile KDS** | R128 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R128/KDS_R128_0_0_0.apk) |
 | **CukCuk Mobile DIB** | R128 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R128/DIB_R128_0_0_0.apk) |

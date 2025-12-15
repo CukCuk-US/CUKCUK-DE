@@ -21,7 +21,7 @@ To download a file, simply click the corresponding link. If you encounter any is
 
 | Application | Version | Download |
 |---|---|---|
-| **CukCuk Mobile Sales** | R132 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R132/Sale_DE_R132_0_0_0.apk) |
+| **CukCuk Mobile Sales** | R132 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R132/Sale_DE_R132_0_0_2.apk) |
 | **CukCuk Mobile KDS** | R132 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R132/KDS_DE_R132_0_0_0.apk) |
 | **CukCuk Mobile DIB** | R132 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R132/DIB_DE_R132_0_0_0.apk) |
 

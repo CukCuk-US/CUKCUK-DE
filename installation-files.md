@@ -1,3 +1,11 @@
+### Version R133
+
+| Application | Version | Download |
+|---|---|---|
+| **CukCuk Mobile Sales** | R133 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R133/SALE_R133_0_0_0.apk) |
+| **CukCuk Mobile KDS** | R133 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R133/KDS_R133_0_0_0.apk) |
+| **CukCuk Mobile DIB** | R133 | [Download](https://github.com/CukCuk-US/CUKCUK-DE/releases/download/R133/DIB_R133_0_0_0.apk) |
+
 ### Version R132
 
 | Application | Version | Download |
